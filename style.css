@@ -1,1 +1,12 @@
-/*  */
+/* 1. make li red */
+li {
+    color: red;
+}
+
+/* 2. make div border orange */
+div {
+    border: solid;
+    border-color: orange;
+}
+
+/* 3.  */
